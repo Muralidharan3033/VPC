@@ -1,4 +1,4 @@
-# VPC
+# EX 4 :DEPLOYMENT AND CONFIGURATION OF A PRIVATE CLOUD IN AWS
 ## AIM: 
   To study the steps involved in setting up a private cloud using AWS or Microsoft Azure platforms and explore its core features and services. 
 
